@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+_data
+tls/client.crt
+tls/client.key
+tls/fullchain.crt
+tls/ca.crt
+tls/ca.key
+tls/certs
+tls/newcerts
+config/server.crt
+config/server.key
